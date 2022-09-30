@@ -15,4 +15,4 @@ const isReallyNaN = (val) => {
 
 // Test:
 
-console.log(isReallyNaN(10 / undefined));
+console.log(isReallyNaN("Youssef"));
